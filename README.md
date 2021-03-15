@@ -1,7 +1,7 @@
 # AppBolsa
 App de consulta à Bolsa conforme aulas da DIO
 
-##Tecnologias usadas:
+## Tecnologias usadas:
 - JAVA
 - PostgreSQL
 - Kotlin
